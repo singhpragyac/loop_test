@@ -1,16 +1,12 @@
 .rotate {
     height: 100px;
-  width: 100px;
-  position: absolute;
-  background-color: yellowgreen;
-  /* margin-left: -8px;
+    width: 100px;
+    position: absolute;
+    background-color: yellowgreen;
+    /* margin-left: -8px;
   margin-top: -8px; */
- 
-  
-
 }
 
 .rotate:hover {
     background-color: rgb(124, 81, 160);
 }
-
